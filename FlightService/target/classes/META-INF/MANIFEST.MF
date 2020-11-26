@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: FlightService
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: uk
+Implementation-Vendor-Id: com.capg
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/FlightService
+Created-By: Maven Integration for Eclipse
+
